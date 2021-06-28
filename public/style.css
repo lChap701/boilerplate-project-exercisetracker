@@ -57,3 +57,9 @@ code {
   background-color: #FFFEC4;
   padding: 2px;
 }
+
+/* My changes */
+footer p {
+  max-width: 100%;
+  text-align: center;
+}
